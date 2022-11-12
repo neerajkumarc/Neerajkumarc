@@ -1,6 +1,6 @@
 <!-- ![Screenshot](neerajk.png) -->
 <img src="neerajk.png" alt="drawing" width="300"/>
-A full-stack web developer adept at building responsive web application.<br>Loves the creative challenge of designing and implementing user interfaces.<br>My goal is to help you build the best possible product—from conception all the way through implementation.
+A full-stack web developer adept at building responsive web application.<br>Loves the creative challenge of designing and implementing user interfaces.<br>My goal is to help you build the best possible product from conception all the way through implementation.
 
 
 ## 🌐 Socials:
@@ -22,4 +22,3 @@ A full-stack web developer adept at building responsive web application.<br>Love
 ---
 [![](https://visitcount.itsvg.in/api?id=Neerajkumarc&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
