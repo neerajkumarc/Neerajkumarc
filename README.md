@@ -20,5 +20,5 @@ A full-stack web developer adept at building responsive web application.<br>Love
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Neerajkumarc&icon=2&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=Neerajkumarc&icon=2&color=0)](https://visitcount.itsvg.in)
 
