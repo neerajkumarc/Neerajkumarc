@@ -10,13 +10,13 @@ A full-stack web developer adept at building responsive web application.<br>Love
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img width="500" src="https://github-readme-stats.vercel.app/api?username=Neerajkumarc&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Neerajkumarc&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neerajkumarc&theme=dark&hide_border=false"/>
-   <img width="500" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Neerajkumarc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+   <img width="400" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Neerajkumarc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
 ## 🏆 GitHub Trophies
  <p>
-  <img  src="https://github-profile-trophy.vercel.app/?username=Neerajkumarc&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4"/>
+  <img width="520"  src="https://github-profile-trophy.vercel.app/?username=Neerajkumarc&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4"/>
   <img align="right" width="250" src="https://user-images.githubusercontent.com/78979288/214773891-40bdf03f-512c-483a-a54f-41573dfd838e.gif" alt="img"/></p>
 <p align="bottom"> <img src="https://komarev.com/ghpvc/?username=Neerajkumar&label=Profile%20views&color=0e75b6&style=flat" alt="Neerajkumarc" /> </p>
