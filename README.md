@@ -10,7 +10,7 @@ A full-stack web developer adept at building responsive web application.<br>Love
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neerajkumarc&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img width="500" src="https://github-readme-stats.vercel.app/api?username=Neerajkumarc&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neerajkumarc&theme=dark&hide_border=false"/>
    <img width="500" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Neerajkumarc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
