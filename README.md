@@ -1,6 +1,10 @@
-<img src="neerajk.png" alt="drawing" width="300"/>
+<img src="banner.jpg" alt="drawing" width=""/>
 
+---
+
+<picture  >
+  <source media="(prefers-color-scheme: dark)" srcset="dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="light.png">
+  <img alt="" src="light.png" width="300">
+</picture>
 console.log('Hello, World!');
-
-
-
