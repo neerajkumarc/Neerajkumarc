@@ -7,4 +7,5 @@
   <source media="(prefers-color-scheme: light)" srcset="light.png">
   <img alt="" src="light.png" width="300">
 </picture>
+<br/>
 console.log('Hello, World!');
