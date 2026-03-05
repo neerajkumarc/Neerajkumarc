@@ -1,4 +1,4 @@
-<img src="banner.jpg" alt="drawing" width=""/>
+<!-- <img src="banner.jpg" alt="drawing" width=""/> -->
 
 ---
 
