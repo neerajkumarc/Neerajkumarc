@@ -8,7 +8,6 @@
   <img alt="" src="light.png" width="300">
 </picture>
 <br/>
-console.log('Hello, World!');
 
 ## Current Projects
 
